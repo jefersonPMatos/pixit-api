@@ -29,4 +29,4 @@ Rode as migrations: ###`npx sequelize-cli db:migrate`
 - "user/:id" - "POST". Atualiza dados do usuário.
 - "user/:id" - "DELETE". Delete o usuário.
 
-**Nota: Você pode fazer as requisições pelo Insomina/Postman ou pelo frontend da aplicação. Ver: https://github.com/jefersonPMatos/form-multipart/tree/master/form-multstep-frontend **
+**Nota: Você pode fazer as requisições pelo Insomina/Postman ou pelo frontend da aplicação. Ver: https://github.com/jefersonPMatos/pixit-front **
